@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '~@fortawesome/fontawesome-free/css/all.css';
+@import 'form.css';
+@import 'buttons.css';
+
+@import '~flatpickr/dist/flatpickr.min.css';
+@import 'filepond/dist/filepond.min.css';
+
