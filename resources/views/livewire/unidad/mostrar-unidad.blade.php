@@ -20,7 +20,7 @@
                                 <option value="100">100</option>
                             </select>
                             <span>
-                                Entradas
+                                Entradasssssssssssssssssssssssssssss
                             </span>
                         </div>
         
