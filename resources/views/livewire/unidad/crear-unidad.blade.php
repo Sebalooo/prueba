@@ -5,7 +5,7 @@
  
     <x-jet-dialog-modal style="vertical-align: middle" wire:model='open'>
         <x-slot name="title">
-             Integrar nueva unidad
+             Integrar nueva unidadqqqqqqqqqqqqqqqqqqaaaaaaaaaaaaaaaaaaaaaaaa
         </x-slot>
         <x-slot name="content">
             <div class="mb-4">
