@@ -1,6 +1,7 @@
 <div>
     <x-jet-danger-button  wire:click="$set('open','true')">
-        Ingresar unidad nuevaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        Ingresar unidad nuevaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        
     </x-jet-danger-button>
  
     <x-jet-dialog-modal style="vertical-align: middle" wire:model='open'>
